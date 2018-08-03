@@ -11,9 +11,9 @@ The project aims to detect anomolous activities in surveillance videos. A pre-tr
 UCF-Crime (http://crcv.ucf.edu/cchen/UCF_Crimes.tar.gz) courtesy of
 Waqas Sultani. It is the original dataset used for the aforementioned paper.
 #### Tools:
-Caffe
-Facebook/C3D-1.0
-Tensorflow
+Caffe,
+Facebook/C3D-1.0,
+Tensorflow,
 Python
 
 ## Implementation Details
