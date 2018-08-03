@@ -12,7 +12,7 @@ UCF-Crime (http://crcv.ucf.edu/cchen/UCF_Crimes.tar.gz) courtesy of
 Waqas Sultani. It is the original dataset used for the aforementioned paper.
 #### Tools:
 Caffe,
-Facebook/C3D-1.0,
+Facebook/C3D-1.0 (https://github.com/facebook/C3D),
 Tensorflow,
 Python
 
@@ -37,4 +37,6 @@ score for anomalous videos than normal videos.
 * This project was only possible due the work done by Waqas Sultani, and it help during the course of this project.
 * We are very gratefull to Dr. Rama Krishna Sai Gorthi, our academic advisor for the project.
 * The inspiration behing the project was to look into the techniques for anomoly detection in videos and exploit such       techniqes to develop a real time automated moderator for surveillance.
+
+## Citation
 * Sultani, Waqas, Chen Chen, and Mubarak Shah. "Real-world Anomaly Detection in Surveillance Videos." Center for Research in Computer Vision (CRCV), University of Central Florida (UCF) (2018).
