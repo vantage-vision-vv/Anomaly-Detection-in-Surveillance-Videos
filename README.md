@@ -1,4 +1,4 @@
-#  Real-world Anomaly Detection in Surveillance Videos
+#   Real-world Anomaly Detection in Surveillance Videos
 
 This repository provides the implementation for the paper 'Real-world Anomaly Detection in Surveillance Videos' by Waqas Sultani, Chen Chen, Mubarak Shah.
 
