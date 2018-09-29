@@ -38,5 +38,9 @@ score for anomalous videos than normal videos.
 * We are very gratefull to Dr. Rama Krishna Sai Gorthi, our academic advisor for the project.
 * The inspiration behing the project was to look into the techniques for anomoly detection in videos and exploit such       techniqes to develop a real time automated moderator for surveillance.
 
+## Contributers
+* [Abhay Pratap Singh](https://github.com/abhay97ps)
+* [Aditya Dhall](https://github.com/adi-dhal)
+
 ## Citation
 * Sultani, Waqas, Chen Chen, and Mubarak Shah. "Real-world Anomaly Detection in Surveillance Videos." Center for Research in Computer Vision (CRCV), University of Central Florida (UCF) (2018).
