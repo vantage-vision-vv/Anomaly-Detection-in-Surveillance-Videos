@@ -34,7 +34,7 @@ score for anomalous videos than normal videos.
 
 ## Acknowledgments
 
-* This project was only possible due the work done by Waqas Sultani, and it help during the course of this project.
+* This project was only possible due the work done by Waqas Sultani, and his help during the course of this project.
 * We are very gratefull to Dr. Rama Krishna Sai Gorthi, our academic advisor for the project.
 * The inspiration behing the project was to look into the techniques for anomoly detection in videos and exploit such       techniqes to develop a real time automated moderator for surveillance.
 
